@@ -1,0 +1,4 @@
+com\example\service\DocumentService.class
+com\example\websocket\CollaborationEndpoint.class
+com\example\model\Document.class
+com\example\util\GsonUtil.class

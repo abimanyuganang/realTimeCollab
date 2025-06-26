@@ -11,7 +11,7 @@ class CollaborativeEditor {
     connectWebSocket() {
         try {
             console.log('Attempting WebSocket connection...');
-            this.ws = new WebSocket('ws://localhost:5504/collaborative-editor/ws');
+            this.ws = new WebSocket('ws://localhost:5500/collaborative-editor/ws');
             
             this.ws.onopen = () => {
                 console.log('%cWebSocket Connected Successfully', 'color: green; font-weight: bold');

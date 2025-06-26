@@ -1,4 +1,8 @@
 D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\DocumentManager.java
+D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\WebSocketConfig.java
 D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\model\Document.java
-D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\UserSession.java
+D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\controller\EditorController.java
 D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\WebSocketServer.java
+D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\UserSession.java
+D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\CollaborativeEditorApplication.java
+D:\kontol\realTimeCollab\collaborative-editor\src\main\java\com\editor\EditorWebSocketHandler.java

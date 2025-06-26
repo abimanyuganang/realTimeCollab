@@ -1,3 +1,8 @@
+com\editor\EditorWebSocketHandler.class
 com\editor\WebSocketServer.class
+com\editor\model\Document.class
 com\editor\UserSession.class
 com\editor\DocumentManager.class
+com\editor\WebSocketConfig.class
+com\editor\CollaborativeEditorApplication.class
+com\editor\controller\EditorController.class

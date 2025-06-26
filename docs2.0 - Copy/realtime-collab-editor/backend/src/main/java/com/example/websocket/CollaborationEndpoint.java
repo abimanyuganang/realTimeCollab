@@ -22,7 +22,10 @@ public class CollaborationEndpoint {
     @OnMessage
     public void onMessage(String message, Session session) {
         System.out.println("Message from client: " + message);
-        broadcast(message);
+        Runnable broadcastTask = () -> broadcast(message);
+        Thread broadcastThread = new Thread(broadcastTask);
+        broadcastThread.setPriority(Thread.MAX_PRIORITY); // Set thread priority
+        broadcastThread.start();
     }
 
     @OnClose
@@ -51,4 +54,5 @@ public class CollaborationEndpoint {
             }
         }
     }
+
 }

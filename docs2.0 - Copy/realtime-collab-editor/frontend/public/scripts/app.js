@@ -29,3 +29,4 @@ function sendMessage(content) {
 document.getElementById('editor').addEventListener('input', function() {
     sendMessage(this.value);
 });
+

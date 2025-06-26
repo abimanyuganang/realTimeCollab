@@ -1,4 +1,10 @@
-D:\kontol\realTimeCollab\docs2.0\realtime-collab-editor\backend\src\main\java\com\example\util\GsonUtil.java
-D:\kontol\realTimeCollab\docs2.0\realtime-collab-editor\backend\src\main\java\com\example\websocket\CollaborationEndpoint.java
-D:\kontol\realTimeCollab\docs2.0\realtime-collab-editor\backend\src\main\java\com\example\service\DocumentService.java
-D:\kontol\realTimeCollab\docs2.0\realtime-collab-editor\backend\src\main\java\com\example\model\Document.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\concurrency\ParallelStreamDemo.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\concurrency\DeadlockDemo.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\service\DocumentService.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\concurrency\LockManager.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\concurrency\LockExample.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\concurrency\ConcurrencyDemo.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\concurrency\DocumentUpdater.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\model\Document.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\util\GsonUtil.java
+D:\kontol\realTimeCollab\docs2.0 - Copy\realtime-collab-editor\backend\src\main\java\com\example\websocket\CollaborationEndpoint.java
